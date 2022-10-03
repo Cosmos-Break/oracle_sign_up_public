@@ -1,0 +1,2 @@
+undetected_chromedriver
+selenium==4.0.0
